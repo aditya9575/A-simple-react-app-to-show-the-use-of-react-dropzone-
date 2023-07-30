@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(228, 228, 157);
+    text-align: center;
+    padding-top: 300px;
+    
+    
+}
+
+button{
+    height: 80px;
+    background-color: tomato;
+    font-weight:bolder;
+}
